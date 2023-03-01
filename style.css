@@ -1,0 +1,25 @@
+*{
+    background-color: aliceblue;
+    
+    
+}
+
+.image{
+    display: block;
+    margin-left: 400px;
+    margin-right: auto;
+}
+
+h3,p,ol,ul {
+    margin-left: 400px;
+    
+
+}
+h1{
+    margin-left: 700px;
+}
+
+.recipe{
+    margin-left: 400px;
+    margin-right: auto;
+}
